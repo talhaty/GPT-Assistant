@@ -1,0 +1,13 @@
+langchain
+pandas
+pdfplumber
+streamlit
+streamlit_chat
+openai
+pandasai
+pypdf
+google-auth-httplib2
+google-auth-oauthlib
+faiss-cpu
+tiktoken
+openpyxl
